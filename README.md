@@ -63,15 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x03tanuj&show_icons=true&theme=dark" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x03tanuj&theme=dark" />
-</p>
-
----
-
 <p align="center">
   📌 This profile documents my learning journey — projects evolve by design.
 </p>
