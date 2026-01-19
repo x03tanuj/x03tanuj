@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tanuj 👋</h1>
+<h1 align="center">Hi, I’m Tanuj 👋</h1>
 
 <p align="center">
   Builder • Problem Solver • Learning in Public
@@ -12,36 +12,61 @@
 
 ---
 
-## 🛠 What I’m doing
-- Building **logic-heavy problem-solving projects**
-- Strengthening **DSA fundamentals** with consistent practice
-- Turning concepts into **real systems**, not tutorial clones
+## 🚀 About Me
+
+I’m a software developer focused on **strong fundamentals, logical thinking, and real-world systems**.  
+I believe good software starts with **clarity of thought**, not frameworks.
+
+- Prefer **problem-solving over tutorials**
+- Build projects to understand systems, not just ship features
+- Optimizing for **long-term engineering growth**
 
 ---
 
-## 🧠 Currently learning
+## 🛠 What I’m Working On
+
+- Solving **DSA problems** consistently to sharpen logic
+- Building **logic-heavy backend & full-stack projects**
+- Translating concepts into **maintainable, scalable code**
+
+---
+
+## 🧠 Currently Learning
+
 - Data Structures & Algorithms  
-- JavaScript (core fundamentals)  
-- Backend development (Node.js, Express)  
-- Writing **clean, maintainable code**
+- JavaScript (deep fundamentals, not shortcuts)  
+- Backend Engineering with Node.js & Express  
+- Writing clean, readable, and testable code  
 
 ---
 
-## 🧩 How I like to build
-- Logic first, UI later  
-- Small features → solid foundations  
-- Debugging & documentation over shortcuts  
+## 🧩 How I Build
+
+- Logic first → implementation second  
+- Small, focused features with solid foundations  
+- Debugging, refactoring, and documentation matter  
+- Avoiding overengineering and tutorial clones  
 
 ---
 
-## 🤝 Open to
-- Code reviews & feedback  
+## 🤝 Open To
+
+- Code reviews and constructive feedback  
 - Problem-solving discussions  
-- Beginner-friendly collaborations  
+- Beginner-friendly collaborations with serious intent  
 
 ---
 
-## 🌐 Connect with me
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,c,cpp,react,nodejs,express,mongodb,mysql,tailwind,git,github" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
 <p>
   <a href="https://instagram.com/tanujx03">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
@@ -56,13 +81,6 @@
 
 ---
 
-## 💻 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,c,cpp,react,nodejs,express,mongodb,mysql,tailwind,git,github" />
-</p>
-
----
-
 <p align="center">
-  📌 This profile documents my learning journey — projects evolve by design.
+  📌 This profile documents my learning journey — projects evolve intentionally.
 </p>
